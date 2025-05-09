@@ -34,6 +34,7 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
@@ -69,7 +70,3 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 ### 🔭 Let’s Build the Future Together!
 
 I'm always looking for meaningful collaboration opportunities. If you're working on a project that solves real-world problems or need a passionate front-end developer, **let's connect!**
-
----
-
-Let me know how you'd like me to **personalize this further** for your GitHub profile—would you like help writing your "Pinned Repositories" descriptions or tailoring it to specific job roles you're applying for?
