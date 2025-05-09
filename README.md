@@ -41,44 +41,9 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 
 ---
 
-### 🚀 Project Highlights
 
-- **🛒 Shopping Cart App (Python)**  
-  Console-based cart system allowing add/remove/view items with price total.  
-  _Python, CLI_
 
-- **📊 Life Expectancy Analyzer**  
-  Processes CSV data to provide life expectancy insights by country/year.  
-  _Python, CSV_
 
-- **🚌 Matatufy: Uber for Matatus**  
-  Real-time matatu tracking and booking with M-Pesa integration.  
-  _Flutter, Node.js, Google Maps API_
-
-- **🌐 iMarket Digipreneur**  
-  Co-founded platform helping digital entrepreneurs with web and marketing tools.  
-  _WordPress, Google Ads_
-
----
-
-### 📌 Summaries of Projects, PRs, and Repositories
-
-Here are some notable contributions and public repositories:
-
-#### 🔷 Repositories
-- [`shopping-cart-python`](https://github.com/emmanuelkwoba/shopping-cart-python) – A command-line shopping cart program with total cost computation.
-- [`life-expectancy-analyzer`](https://github.com/emmanuelkwoba/life-expectancy-analyzer) – Script for analyzing life expectancy data across countries.
-- [`matatufy-app`](https://github.com/emmanuelkwoba/matatufy-app) – Early-stage prototype for real-time matatu tracking and fare setting.
-- [`alx-frontend`](https://github.com/emmanuelkwoba/alx-frontend) – Ongoing coursework and frontend challenges under ALX program.
-- [`portfolio-site`](https://github.com/emmanuelkwoba/portfolio-site) – My personal portfolio and showcase site (WIP).
-
-#### 🔁 Pull Requests & Contributions
-- [#5 Fix typo and improve README clarity](https://github.com/emmanuelkwoba/shopping-cart-python/pull/5) – Refined documentation and added install instructions.
-- [#2 Added graph output to life analyzer](https://github.com/emmanuelkwoba/life-expectancy-analyzer/pull/2) – Enhanced output with matplotlib for visualizations.
-
-You can explore more at: [github.com/emmanuelkwoba?tab=repositories](https://github.com/emmanuelkwoba?tab=repositories)
-
----
 
 ### 📈 GitHub Stats
 
