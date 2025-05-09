@@ -41,11 +41,50 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 
 ---
 
+### 🚀 Project Highlights
+
+- **🛒 Shopping Cart App (Python)**  
+  Console-based cart system allowing add/remove/view items with price total.  
+  _Python, CLI_
+
+- **📊 Life Expectancy Analyzer**  
+  Processes CSV data to provide life expectancy insights by country/year.  
+  _Python, CSV_
+
+- **🚌 Matatufy: Uber for Matatus**  
+  Real-time matatu tracking and booking with M-Pesa integration.  
+  _Flutter, Node.js, Google Maps API_
+
+- **🌐 iMarket Digipreneur**  
+  Co-founded platform helping digital entrepreneurs with web and marketing tools.  
+  _WordPress, Google Ads_
+
+---
+
+### 📌 Summaries of Projects, PRs, and Repositories
+
+Here are some notable contributions and public repositories:
+
+#### 🔷 Repositories
+- [`shopping-cart-python`](https://github.com/emmanuelkwoba/shopping-cart-python) – A command-line shopping cart program with total cost computation.
+- [`life-expectancy-analyzer`](https://github.com/emmanuelkwoba/life-expectancy-analyzer) – Script for analyzing life expectancy data across countries.
+- [`matatufy-app`](https://github.com/emmanuelkwoba/matatufy-app) – Early-stage prototype for real-time matatu tracking and fare setting.
+- [`alx-frontend`](https://github.com/emmanuelkwoba/alx-frontend) – Ongoing coursework and frontend challenges under ALX program.
+- [`portfolio-site`](https://github.com/emmanuelkwoba/portfolio-site) – My personal portfolio and showcase site (WIP).
+
+#### 🔁 Pull Requests & Contributions
+- [#5 Fix typo and improve README clarity](https://github.com/emmanuelkwoba/shopping-cart-python/pull/5) – Refined documentation and added install instructions.
+- [#2 Added graph output to life analyzer](https://github.com/emmanuelkwoba/life-expectancy-analyzer/pull/2) – Enhanced output with matplotlib for visualizations.
+
+You can explore more at: [github.com/emmanuelkwoba?tab=repositories](https://github.com/emmanuelkwoba?tab=repositories)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelkwoba&show_icons=true&theme=default" alt="Emmanuel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelkwoba&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=petitkwoba&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petitkwoba&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
@@ -53,10 +92,10 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/emmanuelkwoba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/emmanuelkwoba" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:emmanuel.kwoba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.imarketdigipreneur.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" alt="Website"/></a>
+  <a href="linkedin.com/in/emmanuel-petit-kwoba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Ptech_Kenya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:kwobapetit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://petitportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
@@ -69,4 +108,4 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 
 ### 🔭 Let’s Build the Future Together!
 
-I'm always looking for meaningful collaboration opportunities. If you're working on a project that solves real-world problems or need a passionate front-end developer, **let's connect!**
+I'm always open to collaboration, mentorship, and contribution to meaningful tech projects. Let's connect and make an impact!
