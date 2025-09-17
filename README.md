@@ -48,7 +48,7 @@ I'm a dedicated learner currently enrolled in the **ALX Front-End Development pr
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petitkwoba&show_icons=true&theme=default" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petitkwoba&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
