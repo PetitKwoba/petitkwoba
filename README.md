@@ -1,89 +1,120 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Emmanuel P. Kwoba</h1>
-<h3 align="center">💻 Front-End Developer | IT Support Specialist | Passionate Problem Solver</h3>
+<h3 align="center">💻 Front-End Developer | Django Enthusiast | IT Support Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=petitkwoba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PetitKwoba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-
-I’m a **Front-End Developer** and **IT Support Specialist** currently enrolled in the **ALX Front-End Development program**.  
-
-My journey into software engineering started with a deep desire to **solve real-world problems through technology**. I enjoy building clean, user-friendly applications and empowering organizations and communities with digital solutions.  
-
-💡 **What drives me:**  
-- Building user-centric and scalable web applications  
-- Designing systems that transform workflows and community services  
-- Leveraging innovation to create sustainable social impact  
-
-🎯 **Mission:** To develop technology that **makes life simpler, smarter, and more inclusive.**
+### 🧑‍💻 About Me
+- 🎓 Pursuing **B.Sc. in Software Development** at **KCA University** *(In Progress)*  
+- 🚀 Growing expertise in **Django, SQL & PostgreSQL** for scalable backends  
+- 💡 Passionate about solving problems with technology that drives **community and organizational impact**  
+- 🌍 Open to collaborations in **social-impact tech**, **open-source projects**, and **AI-driven tools**  
 
 ---
 
-### 🛠️ Tech Stack  
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
-📌 **[Celestial Love](https://github.com/petitkwoba/celestial-love)** – Faith-based dating app built with Flutter.  
-📌 **[Inclusive Queuing & Prioritization System](https://github.com/petitkwoba/iqps)** – A fair and efficient queueing system for Huduma Centres.  
-📌 **[Dino Doodles](https://github.com/petitkwoba/dino-doodles)** – Interactive children’s coloring book with illustrations and guides.  
-📌 **[Matatufy](https://github.com/petitkwoba/matatufy)** – A transport app for matatu tracking, pricing, and seat management.  
-
-👉 Check my [Portfolio Website](https://petitportfolio.netlify.app/) for live demos.
-
----
-
-### 📊 GitHub Stats  
+### 🛠️ Tech Stack 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petitkwoba&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petitkwoba&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,postgresql,git,github&theme=light" />
 </p>
 
 ---
 
-### 🎓 Certifications  
+### 📂 Featured Projects  
 
-- **ALX Front-End Development Program** *(In Progress)*  
-- **Google IT Support Certificate** *(Coursera)*  
-- **Responsive Web Design** – freeCodeCamp  
-- **Python for Everybody** – University of Michigan  
+#### 🛒 [StawiFoods](https://github.com/PetitKwoba/stawifoods)  
+A **food ordering web application** built with **React & Django**.  
+
+**Features**:  
+- Menu browsing & cart management  
+- Secure checkout with payment integration  
+- Mobile-first responsive design  
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me  
+#### 📲 [IntaSend STK Push](https://github.com/PetitKwoba/intasend-stkpush)  
+A **Django-based integration** with **IntaSend M-Pesa STK Push API**.  
+
+**Features**:  
+- Automates mobile payments for businesses  
+- Simplifies checkout flows for Kenyan fintech solutions  
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![M-Pesa](https://img.shields.io/badge/M--Pesa-00A859?style=for-the-badge&logo=safaricom&logoColor=white)
+
+---
+
+#### 🌍 [Trip Viser](https://github.com/PetitKwoba/trip_viser)  
+A **travel recommendation platform** built with **React & Django**.  
+
+**Features**:  
+- Suggests destinations and itineraries  
+- API-driven content delivery  
+- Focus on responsive and user-friendly UI  
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+- Advanced **Django Rest Framework (DRF)**  
+- Cloud deployment with **AWS & Docker**  
+- Scalable backend patterns with **PostgreSQL**  
+
+---
+
+### 🏆 Achievements & Highlights
+- 🎓 Enrolled in **ALX Front-End Development Program**  
+- 👨‍💻 Built portfolio projects using **React + Django + PostgreSQL**  
+- 💡 Consistently contributing to open-source & personal repos  
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/emmanuel-petit-kwoba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Ptech_Kenya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:kwobapetit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://petitportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" alt="Website"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PetitKwoba&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetitKwoba&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PetitKwoba&theme=tokyo-night" />
 </p>
 
 ---
 
-### ✨ Quote I Live By  
+### 🌐 Connect With Me
 
-> "The best way to predict the future is to invent it." – Alan Kay  
+<p align="center">
+  <a href="https://linkedin.com/in/emmanuel-petit-kwoba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Ptech_Kenya" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kwobapetit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://petitportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🔭 Let’s Build the Future Together  
+### ✨ Fun Quote
 
-I’m always open to **collaboration, mentorship, and contributing to meaningful projects**. If you’re building something impactful, let’s connect and make it happen! 🚀
+> *"The best way to predict the future is to invent it." – Alan Kay*  
+
+---
+
+### 📩 Opportunities
+I’m actively seeking **internships and junior developer roles**.  
+If you’re looking for a **motivated developer with hands-on Django, React, and PostgreSQL skills** →  
+📧 **Reach me at:** [kwobapetit@gmail.com](mailto:kwobapetit@gmail.com)
