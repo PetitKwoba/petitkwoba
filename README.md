@@ -27,17 +27,16 @@
 ### 📂 Featured Projects  
 
 #### 🛒 [StawiFoods](https://github.com/PetitKwoba/stawifoods)  
-A **food ordering web application** built with **React & Django**.  
+An **information page using ** built with **React**.  
 
 **Features**:  
-- Menu browsing & cart management  
-- Secure checkout with payment integration  
-- Mobile-first responsive design  
+- Menu browsing 
+- Mobile-first responsive design
+- Integrated SEO
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -78,7 +77,6 @@ A **travel recommendation platform** built with **React & Django**.
 ---
 
 ### 🏆 Achievements & Highlights
-- 🎓 Enrolled in **ALX Front-End Development Program**  
 - 👨‍💻 Built portfolio projects using **React + Django + PostgreSQL**  
 - 💡 Consistently contributing to open-source & personal repos  
 
