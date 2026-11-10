@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4e9eff;">Emmanuel P. Kwoba</span></h1>
-<h3 align="center">💻 Front-End Developer | Django Enthusiast | IT Support Specialist</h3>
+<h3 align="center">💻 Software Developer | AI Agent Developer | C#/.NET | Django | IT Support</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PetitKwoba&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -11,7 +11,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **B.Sc. Software Development Student** at *KCA University*  
-- 🚀 Passionate about building **scalable web apps** using **Django, React & PostgreSQL**  
+- 🚀 Building web applications with **Django, React, C#/.NET & PostgreSQL**
+- 🤖 Exploring **AI agent development**, including tool-integrated and workflow-driven applications
 - 💡 I love turning ideas into **functional, user-centered digital experiences**  
 - 🌍 Open to collaborations in **open-source**, **AI-driven tools**, and **social-impact tech**  
 
@@ -20,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,postgresql,git,github,vscode,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,csharp,dotnet,postgresql,git,github,vscode,postman&theme=light" />
 </p>
 
 ---
@@ -67,7 +68,9 @@ A **travel recommendation platform** using **React + Django REST Framework**.
 
 | Area | Focus |
 |------|--------|
-| 💻 Frameworks | Django, React, DRF |
+| 💻 Languages | Python, JavaScript, C# |
+| 🧰 Frameworks | Django, Django REST Framework, React, .NET |
+| 🤖 AI Development | AI agents, tool integration, agent workflows |
 | 🗄️ Databases | PostgreSQL, SQLite |
 | ☁️ Deployment | Netlify, Render, Docker |
 | 🧠 Interests | Backend Optimization, API Design, Cloud Dev |
@@ -95,4 +98,5 @@ A **travel recommendation platform** using **React + Django REST Framework**.
 ---
 
 ### 📚 Currently Learning
-- Advance
+- Building AI agents and exploring practical agent workflows
+- Deepening my C# and .NET development skills
